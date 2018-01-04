@@ -17,7 +17,6 @@ function add2(n) {
 
   // Feel free to move things around!
   var two = 2
-  return n + 
 }
 
 var funkyFunction = function() {
